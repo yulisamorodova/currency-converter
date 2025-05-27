@@ -8,4 +8,4 @@ export const formatNumber = (value) => {
 };
 
 export const parseInput = (value) =>
-  value.replace(/[,\s]/g, '').replace(',', '.');
+  value.replace(/[,\s]/g, '');

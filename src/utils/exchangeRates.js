@@ -1,4 +1,3 @@
-// utils/exchangeRates.js
 
 export const getExchangeRate = (from, to) => {
     if (from === to) return 1;
